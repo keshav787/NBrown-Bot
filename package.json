@@ -1,0 +1,27 @@
+{
+  "name": "N Brown Bot",
+  "version": "0.1",
+  "description": "A Bot for answering faqs",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "main": "NBrownNewBot.js",
+  "scripts": {
+    "start": "node NBrownNewBot.js"
+  },
+  "dependencies": {
+    "botbuilder": "3.8.4",
+    "restify": "4.3.0",
+	"request": "2.81.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keshav787/NBrown-Bot"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "keshav"
+}
